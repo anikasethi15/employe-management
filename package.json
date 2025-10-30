@@ -1,0 +1,15 @@
+{
+  "name": "employee-management-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI-based Employee Management System using Node.js and arrays.",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
